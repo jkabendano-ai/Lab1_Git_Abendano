@@ -1,3 +1,4 @@
 print("Lab 1: Version Control")
 print("Author: Justine Kyle B. Abendaño")
 print("Student ID: TUPM-25-0795")
+print("Class Section: BSECE-1A")
